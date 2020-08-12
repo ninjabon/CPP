@@ -40,7 +40,7 @@ int main() {
     }
     
     else {
-     cout <<endl << red << "please put a value greater than zero and no letters or symbols." << normal << endl;
+     cout <<endl << red << "please put a value greater than zero." << normal << endl;
    
     }
 
