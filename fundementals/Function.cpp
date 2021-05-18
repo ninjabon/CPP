@@ -4,9 +4,9 @@ using namespace std;
 void print_nationality() {
     cout << "chinese" << endl;
 }
-// void print_detail(string name, int age) {
-//     cout << "name: " << name << ", age: " << age << endl;
-// }
+void print_detail(string name, int age) {
+    cout << "name: " << name << ", age: " << age << endl;
+}
 int addNumbers(int x, int y){
     return x+y;
 }
